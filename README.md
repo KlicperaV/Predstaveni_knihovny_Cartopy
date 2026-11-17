@@ -15,7 +15,7 @@ Mezi nevýhody patří:
 * Závislost na dalších knihovnách
   
 # Zdroje
-K úpravě, zjednodušení a optimalizaci kódu byl využita umělá inteligence prostředí Google Colab( Google Gemini).
+K úpravě, zjednodušení a optimalizaci kódu byl využita umělá inteligence prostředí Colab (Google Gemini).
 
 Při tvorbě byly využity tyto zdroje:
 * https://cartopy.readthedocs.io/stable/index.html
