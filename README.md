@@ -15,7 +15,8 @@ Mezi nevýhody patří:
 * Závislost na dalších knihovnách
   
 # Zdroje
-Při tvorbě Jupyter Notebook byly využity tyto zdroje. K úpravě, zjednodušení a optimalizaci kódu byl využita umělá inteligence prostředí Google Colab( Google Gemini)
+K úpravě, zjednodušení a optimalizaci kódu byl využita umělá inteligence prostředí Google Colab( Google Gemini)
+Při tvorbě byly využity tyto zdroje:
 * https://cartopy.readthedocs.io/stable/index.html
 * https://github.com/michaelavs/cartopy_tutorial/tree/main
 * https://foundations.projectpythia.org/core/cartopy/cartopy/
