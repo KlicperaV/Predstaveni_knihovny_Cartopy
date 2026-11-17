@@ -8,5 +8,8 @@ Cartopy je open-source knihovna určená především pro kartografickou vizuali
  * Integrace s Matplotlib - umožňuje kombinovat mapy s grafy, diagramy a dalšími vizualizacemi
  * Dostupná data – podporuje Natural Earth a načítání dalších geografických vrstev
 
-Nejedná se ovšem o samostatný analytický nástroj, nedokáže nahradit GIS software. Výstupy jsou v základu statické, pro vyšší interaktivitu je třeba využití dalších podpůrných knihoven.
-
+Mezi nevýhody patří:
+* Pomalejší práce s velkým objemem dat
+* Omezené možnosti analýzy - nutnost GIS softwaru / knihovny
+* Statické výstupy - nižší interaktivita (možnost doplnění knihovnami)
+* Závislost na dalších knihovnách
